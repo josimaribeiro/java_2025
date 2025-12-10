@@ -56,3 +56,5 @@ if errorlevel 1 (
 git push -u origin main
 
 endlocal
+
+start https://github.com/josimaribeiro/java_2025.git
